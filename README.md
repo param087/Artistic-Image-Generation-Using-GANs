@@ -29,5 +29,3 @@
 
 * [Tensorflow GPU](https://www.tensorflow.org/) 
 * [OpenCV](https://pypi.org/project/opencv-python/)
-
-
