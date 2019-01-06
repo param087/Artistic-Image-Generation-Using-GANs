@@ -13,8 +13,16 @@
     1. Image resize
     2. RBGA -> RGB 
     3. Artistic GAN (tensorboard command are like tf.summary and see doc for tf board to run https://www.tensorflow.org/guide/summaries_and_tensorboard) 
-    
-    
+
+
+## Generate Images
+***
+![image](https://github.com/param087/Artistic-Image-Generation-Using-GANs/blob/master/Images/Generated/artistgan_full.jpg)
+***
+![image](https://github.com/param087/Artistic-Image-Generation-Using-GANs/blob/master/Images/Generated/artistgan_full2.jpg)
+***
+![image](https://github.com/param087/Artistic-Image-Generation-Using-GANs/blob/master/Images/Generated/artistgan_half_1.jpg)
+***
 
 
 ## Dependencies
